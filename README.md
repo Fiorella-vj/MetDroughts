@@ -1,2 +1,3 @@
-# MetDroughts
-Meteorological droughts analysis
+# EDIF
+Effective Drought Index at monthly time scale
+
